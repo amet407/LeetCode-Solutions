@@ -260,6 +260,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                       | [Javascript](./JavaScript/98.Validate-Binary-Search-Tree.js)                                                     | _O(log(n))_ | _O(log(n))_ | Medium     | Binary Tree                                    |
 | 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                     | [Java](./Java/Redundant-Connection/redundant-connection.java)                                                    | _O(N)_      | _O(N)_      | Medium     | Tree, Union Find                               |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)   |[C++](./C++/Binary-Tree-Level-Order-Traversal.cpp)| _O(n)_      | _O(n)_      | Medium     | Binary Tree, map                                    |      |
+| 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)                                     | [C++](./C++/invert-binary-tree.cpp)                                                    | _O(N)_      | _O(1)_      | Easy     | Tree, DFS, BFS, Binary Tree
+| 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)                                     | [Java](./Java/binary-tree-level-order-traversal.java)                                                    | _O(N)_      | _O(N)_      | Medium     | Tree, BFS, Binary Tree
 
 <br/>
 <div align="right">
